@@ -1,6 +1,4 @@
-# Deep-Cleaning-Tool-rapidfresh.py-
 Rapidfresh is an advanced Linux system cleanup tool designed to perform various deep cleaning operations, secure file shredding, and network monitoring. It offers both a command-line interface (CLI) and a graphical user interface (GUI), enabling users to easily maintain and optimize their Linux systems for privacy and performance.
-
 Features
 
     Clear Terminal History: Erase all traces of previous terminal commands.
@@ -71,3 +69,23 @@ Requirements
     tcpdump for network monitoring
     shred for secure file deletion
     click for command-line interface
+
+Contributing
+
+    Fork the repository.
+    Create a new branch (git checkout -b feature/your-feature).
+    Make your changes.
+    Commit your changes (`git commit -am 'Add
+
+your feature'). 5. Push to the branch (git push origin feature/your-feature`). 6. Open a Pull Request.
+
+Please ensure your code follows the PEP 8 style guidelines and is well-documented.
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+Acknowledgments
+
+    Click: A Python package for creating command-line interfaces.
+    Tkinter: A standard Python library for building graphical user interfaces.
+    Shred: A command-line tool for securely deleting files.
+    Tcpdump: A command-line packet analyzer used for monitoring network traffic.
